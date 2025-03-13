@@ -6,3 +6,4 @@ Line for commit 4 on branch main
 Line for commit 5 on branch main
 Line for commit 6 on branch main
 Line for commit 7 on branch main
+Line for commit 8 on branch main
