@@ -25,3 +25,4 @@ Line for commit 3 on branch feature_b
 Line for commit 1 on branch feature_a
 Line for commit 2 on branch feature_a
 Line for commit 3 on branch feature_a
+Line for commit 4 on branch feature_a
