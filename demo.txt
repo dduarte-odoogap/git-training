@@ -43,3 +43,4 @@ Line for commit 2 on branch 10002_feature_y
 Line for commit 3 on branch 10002_feature_y
 Line for commit 1 on branch 10001_feature_x
 Line for commit 2 on branch 10001_feature_x
+Line for commit 3 on branch 10001_feature_x
